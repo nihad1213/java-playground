@@ -1,0 +1,44 @@
+Type,Code,Nominal,Name,Value
+Bank metalları,XPD,1 t.u.,"Palladium",2364.9465
+Bank metalları,XPT,1 t.u.,"Platin",2632.1015
+Bank metalları,XAG,1 t.u.,"Gümüş",82.398
+Bank metalları,XAU,1 t.u.,"Qızıl",6796.0815
+Xarici valyutalar,USD,1,"1 ABŞ dolları",1.7
+Xarici valyutalar,EUR,1,"1 Avro",1.9612
+Xarici valyutalar,AUD,1,"1 Avstraliya dolları",1.101
+Xarici valyutalar,BYN,1,"1 Belarus rublu",0.5699
+Xarici valyutalar,BGN,1,"1 Bolqarıstan levi",1.0027
+Xarici valyutalar,AED,1,"1 BƏƏ dirhəmi",0.4629
+Xarici valyutalar,KRW,100,"100 Cənubi Koreya vonu",0.1167
+Xarici valyutalar,CZK,1,"1 Çexiya kronu",0.0805
+Xarici valyutalar,CNY,1,"1 Çin yuanı",0.2387
+Xarici valyutalar,DKK,1,"1 Danimarka kronu",0.2626
+Xarici valyutalar,GEL,1,"1 Gürcü larisi",0.628
+Xarici valyutalar,HKD,1,"1 Honq Konq dolları",0.2187
+Xarici valyutalar,INR,1,"1 Hindistan rupisi",0.0192
+Xarici valyutalar,GBP,1,"1 İngilis funt sterlinqi",2.23
+Xarici valyutalar,SEK,1,"1 İsveç kronu",0.1774
+Xarici valyutalar,CHF,1,"1 İsveçrə frankı",2.1054
+Xarici valyutalar,ILS,1,"1 İsrail şekeli",0.5209
+Xarici valyutalar,CAD,1,"1 Kanada dolları",1.2036
+Xarici valyutalar,KWD,1,"1 Küveyt dinarı",5.5369
+Xarici valyutalar,KZT,100,"100 Qazaxıstan tengəsi",0.3229
+Xarici valyutalar,QAR,1,"1 Qətər rialı",0.4664
+Xarici valyutalar,KGS,1,"1 Qırğız somu",0.0194
+Xarici valyutalar,HUF,100,"100 Macarıstan forinti",0.5076
+Xarici valyutalar,MDL,1,"1 Moldova leyi",0.0992
+Xarici valyutalar,NOK,1,"1 Norveç kronu",0.1664
+Xarici valyutalar,UZS,100,"100 Özbək somu",0.0141
+Xarici valyutalar,PKR,100,"100 Pakistan rupisi",0.6033
+Xarici valyutalar,PLN,1,"1 Polşa zlotısı",0.4614
+Xarici valyutalar,RON,1,"1 Rumıniya leyi",0.3856
+Xarici valyutalar,RUB,100,"100 Rusiya rublu",2.0928
+Xarici valyutalar,RSD,1,"1 Serbiya dinarı",0.0167
+Xarici valyutalar,SGD,1,"1 Sinqapur dolları",1.3035
+Xarici valyutalar,SAR,1,"1 Səudiyyə Ərəbistanı rialı",0.4533
+Xarici valyutalar,SDR,1,"1 SDR (BVF-nin xüsusi borcalma hüquqları)",2.3057
+Xarici valyutalar,TRY,1,"1 Türk lirəsi",0.0403
+Xarici valyutalar,TMT,1,"1 Türkmənistan manatı",0.4857
+Xarici valyutalar,UAH,1,"1 Ukrayna qrivnası",0.0405
+Xarici valyutalar,JPY,100,"100 Yapon yeni",1.1102
+Xarici valyutalar,NZD,1,"1 Yeni Zelandiya dolları",0.9553
