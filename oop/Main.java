@@ -2,7 +2,11 @@ class Car {
     String name;
     int relasedYear;
     float speed;
-    
+
+    public Car() {
+        this("Unknown", 0, 0.0f);
+    }
+
     public Car(String name, int releasedYear, float speed) {
         this.name = name;
         this.relasedYear = releasedYear;
@@ -37,6 +41,7 @@ class Main {
         // // System.out.println(car2.getName());
         // System.out.println(car1.getName());
 
+        Car car2 = new Car();
         Car car1 = new Car("Honda", 2001, 180.75f);
 
     }
